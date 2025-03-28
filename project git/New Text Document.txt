@@ -1,0 +1,11 @@
+open github
+login github
+then make repos.
+copy repos. code
+make git folder in your machine
+them open git folder and run cmd
+then in cmd
+ run cmd 1:-git init
+
+2:-git clone "paste repos. code"
+

@@ -9,3 +9,10 @@ then in cmd
 
 2:-git clone "paste repos. code"
 
+repos. ke andar readme file wali place ke yaha
+
+3:-git init
+4:-git add .
+5:-git commit -m"message"
+6:-git push
+
